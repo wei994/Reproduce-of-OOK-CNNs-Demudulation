@@ -14,5 +14,5 @@ Here is the clue about the function.
 5. And then calculate the Ins_BER and Ave_BER
 
 For now, the function is not stable, I am trying to fix the problem.
-The second code BER_Rb.ipynb is the previous code to evaluate the affect of Rb rate bit to BER.
+The second code BER_Rb.ipynb is the previous code to evaluate the affect of Rb(Bit rate) to BER.
 
