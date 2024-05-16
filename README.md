@@ -13,6 +13,7 @@ Here is the clue about the function.
 4. The Numerical signal  = received_signal_n + noise_n
 5. And then calculate the Ins_BER and Ave_BER
 
-For now, the function is not stable, I am trying to fix the problem.
-The second code BER_Rb.ipynb is the previous code to evaluate the affect of Rb(Bit rate) to BER.
+For now, the function is stable, by using the function and random seed we can generate the same signal used in FTD and use it to train the CNNs and calculate the BER.
+
+The second code BER_Rb.ipynb is the previous code to evaluate the effect of Rb(Bit rate) on BER.
 
