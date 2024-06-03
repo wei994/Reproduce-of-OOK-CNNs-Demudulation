@@ -27,6 +27,7 @@ output: Numerical signal of bit 1 and bit 0, the standard deviation of total noi
 Different noise types have been tested.
 
 **"Generate_CSV_dataset.ipynb"**
+
 This file is to generate the dataset 'supervised_dataset.csv' for supervised learning. Using the function defined in "Reproduce_FTD__OOK_CNNs.ipyn"
 
 
