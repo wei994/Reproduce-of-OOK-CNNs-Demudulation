@@ -1,7 +1,8 @@
 # Reproduce-of-OOK-CNNs-Demodulation
 The code to reproduce the OOK CNNs Demodulation
 
-**About the files, **
+**About the files **
+
 "Reproduce_FTD__OOK_CNNs.ipynb" is to reproduce the result from the "OOK_CNNS" paper.
 "Generate_CSV_dataset.ipynb" is to generate the dataset for CNN models 
 "BER_Rb.ipynb" the previous code to evaluate the effect of Rb(Bit rate) on BER
