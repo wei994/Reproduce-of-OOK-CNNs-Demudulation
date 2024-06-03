@@ -4,13 +4,17 @@
 **About the files**
 
 "Reproduce_FTD__OOK_CNNs.ipynb" is to reproduce the result from the "OOK_CNNS" paper.
-"Generate_CSV_dataset.ipynb" is to generate the dataset for CNN models 
-"BER_Rb.ipynb" the previous code to evaluate the effect of Rb(Bit rate) on BER
+
+"Generate_CSV_dataset.ipynb" is to generate the dataset for CNN models. 
+
+"BER_Rb.ipynb" the previous code to evaluate the effect of Rb(Bit rate) on BER.
 
 
 **"Reproduce_FTD__OOK_CNNs.ipyn"**
+
 The function"Simulated_dataset(SNR, Z, P, Watertype, Noise='Gauss')" generates the signal based on the SNR, range Z, and transmission power P.
 First to define the watertype. (channel loss and turbulence)
+
 Input: SNR, range Z, transmission power P, noise type and water type
 
 output: Numerical signal of bit 1 and bit 0, the standard deviation of total noise of bit 1 and bit 0, the optimal threshold
