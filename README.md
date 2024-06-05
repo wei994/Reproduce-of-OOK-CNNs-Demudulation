@@ -9,6 +9,7 @@
 
 "BER_Rb.ipynb" the previous code to evaluate the effect of Rb(Bit rate) on BER.
 
+"CNN_UWOC.ipynb"CNN model for UWOC
 
 **"Reproduce_FTD__OOK_CNNs.ipyn"**
 
